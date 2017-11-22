@@ -1,0 +1,1 @@
+# assetTracking-linkit-cypress-thingsBoard
